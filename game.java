@@ -24,6 +24,9 @@ public static void main(String[] args){
 	System.out.println(ship2);
 	System.out.println("”š’e‚ÌYÀ•W‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢(1-5)");
 	int ship3=scanner.nextInt();
-	System.out.println(ship3);	
+	System.out.println(ship3);
+	System.out.println("*****************");
+	System.out.println("ƒQ[ƒ€I—¹");
+	System.out.println("*****************");	
 }
 }
